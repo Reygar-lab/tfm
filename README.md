@@ -38,7 +38,7 @@ Este análisis fue realizado a partir de las muestras de 2 estudios diferentes.
 La selección de las muestras se realizó teniendo en cuenta el tipo de estudio, que fuesen muestras de sangre periférica, que especificase el tipo de IAM sufrido, 
 el sexo y la edad del individuo.
 El estudio con el identificador GEO GSE103182 contiene muestras de RNA-seq de sangre periférica de pacientes que habían sufrido infarto agudo de miocardio, siendo 
-clasificados como pacientes STEMI y pacientes NSTEMI. 
+clasificados como pacientes STEMI y NSTEMI. 
 Ante la ausencia de pacientes sanos que actuasen de control en dicho estudio fue necesaria su selección de otro estudio realizado por el mismo grupo de investigación,
 incluido en GEO con el identificador GSE120312. 
 Todas las muestras incluidas en el estudio fueron secuenciadas por el grupo de Inmunología y Genómica Funcional del Centro Cardiologico Monzino IRCCS mediante la 
