@@ -32,7 +32,7 @@ Las matrices de conteos obtenidas serán las que utilizaremos en el análisis de
 anotación de términos GO/KEGG, la identificación de genes HUBB y el análisis de redes de interacción proteína-proteína mediante Cytoscape.
 
 
-## Credits
+## Créditos
 
 Este análisis fue realizado a partir de las muestras de 2 estudios diferentes. 
 La selección de las muestras se realizó teniendo en cuenta el tipo de estudio, que fuesen muestras de sangre periférica, que especificase el tipo de IAM sufrido, 
